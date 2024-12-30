@@ -75,6 +75,10 @@
     {
       "id": "Snowflake",
       "isDefault": false
+    },
+    {
+      "id": "Movies",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
